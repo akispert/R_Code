@@ -1,6 +1,7 @@
 # Example on how to find duplicates
 # Commented by RyanCook 2.17.2016
 # Comment by Count Dracula (anna) 2.18.2016
+# Comment by Count Chocula (also Anna) 2.18.2016
 #  Vector a
 a <- c(1, 1, 2, 3, 4, 5, 5, 6, 6, 7, 8, 9)
 a
